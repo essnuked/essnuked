@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst and Blockchain Developer
 -------------------------------------
 
-I wear multiple hats in the tech,web3 and media industry. I've been learning data anaysis for a year and currently exploring with solidity,foundry and rust for fun. I'm motivated by my curiousity and passion for the crypto space.
+I wear multiple hats in the tech,web3 and media industry. I've been currently exploring with solidity,foundry and rust for fun. I'm motivated by my curiousity and passion for the crypto space.
 
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [MyPortFolio](http://essbuilds.dev)
