@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Esther Akamnonu
 =======================================================================================================================================
 
-Data Analyst and Blockchain Developer
+Full-Stack Blockchain Developer
 -------------------------------------
 
 I wear multiple hats in the tech,web3 and media industry. I've been currently exploring with solidity,foundry and rust for fun. I'm motivated by my curiousity and passion for the crypto space.
