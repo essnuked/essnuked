@@ -9,7 +9,7 @@ I wear multiple hats in the tech,web3 and media industry. I've been currently ex
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [MyPortFolio](http://essbuilds.dev)
 * ✉️  You can contact me at [unusualess@proton.me](mailto:unusualess@proton.me)
-* 🧠  I'm learning data analysis and dune
+* 🧠  I'm learning solidity and smart contract development
 * 🤝  I'm open to collaborating on projects
 * ⚡  I'm secretly Vitalik Buterin..... but don't rat me out
 
